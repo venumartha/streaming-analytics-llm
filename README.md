@@ -4,10 +4,7 @@ A production-grade event streaming pipeline that processes medical device teleme
 
 ## 🎯 What This Project Demonstrates
 
-This project showcases **distributed streaming systems + AI integration** skills critical for roles at:
-- **HealthTech** (Cedar, Aledade): Medical device monitoring, patient safety
-- **Streaming Platforms** (Confluent, LinkedIn): Kafka expertise, real-time processing
-- **Fintech** (Affirm, Stripe): Fraud detection, transaction monitoring
+This project showcases **distributed streaming systems + AI integration**
 
 ### Core Technical Skills
 ✅ Kafka event streaming architecture  
